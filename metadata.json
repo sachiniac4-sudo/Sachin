@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CyberGuard - Password Strength & Audit",
+  "description": "A comprehensive security tool that evaluates password strength in real-time, visualizes SHA-256 hashing, and uses Gemini AI to generate secure credentials and offer cybersecurity advice.",
+  "requestFramePermissions": []
+}
